@@ -1,6 +1,6 @@
 ### Hi!
 
-- 📰 I work on [Chorus](https://getchorus.voxmedia.com/) with the Ecosystem team at @voxmedia.
+- 📰 I work on [Chorus](https://getchorus.voxmedia.com/) with the Ecosystem team at [@voxmedia](https://github.com/voxmedia).
 - 🤓 Forever reading about web development, distributed systems, databases, and programming languages.
 - 🌱 I’m currently learning more about Go, Rust, and Elixir.
 - 🕺🏼 Pronouns: He/Him/His
